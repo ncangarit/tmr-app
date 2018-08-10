@@ -1,0 +1,147 @@
+2018-08-10 09:35:41,491 — App — INFO —  Running app
+2018-08-10 09:35:41,491 — PreProcessing — INFO — Loading Data
+2018-08-10 09:35:44,332 — App — INFO — CHECK DATAFRAMES - INICIO
+2018-08-10 09:35:44,333 — App — INFO — 322336
+2018-08-10 09:35:44,333 — App — INFO — 22211
+2018-08-10 09:35:44,333 — App — INFO — 168263
+2018-08-10 09:35:44,390 — Helpers — INFO — Reading parameters: Bancolombia Bogotá
+2018-08-10 09:35:44,391 — Helpers — INFO — Reading parameters: Bancolombia Medellín
+2018-08-10 09:35:44,391 — Helpers — INFO — Default parameters: Citi Mobility Bogota
+2018-08-10 09:35:44,395 — Helpers — INFO — Reading parameters: Colpatria
+2018-08-10 09:35:44,395 — Helpers — INFO — Reading parameters: Comfandi
+2018-08-10 09:35:44,396 — Helpers — INFO — Default parameters: Compensar
+2018-08-10 09:35:44,399 — Helpers — INFO — Default parameters: Comunidad Familia
+2018-08-10 09:35:44,403 — Helpers — INFO — Default parameters: Comunidad TCC
+2018-08-10 09:35:44,406 — Helpers — INFO — Default parameters: Connecta Colectiva
+2018-08-10 09:35:44,411 — Helpers — INFO — Reading parameters: Equion
+2018-08-10 09:35:44,411 — Helpers — INFO — Default parameters: Fontanar Bogotá
+2018-08-10 09:35:44,414 — Helpers — INFO — Default parameters: Grupo Exito Bogotá
+2018-08-10 09:35:44,418 — Helpers — INFO — Default parameters: Grupo Exito Medellín
+2018-08-10 09:35:44,421 — Helpers — INFO — Reading parameters: ISA
+2018-08-10 09:35:44,421 — Helpers — INFO — Default parameters: Isarco
+2018-08-10 09:35:44,425 — Helpers — INFO — Reading parameters: Itau
+2018-08-10 09:35:44,425 — Helpers — INFO — Default parameters: MTS Bogota
+2018-08-10 09:35:44,430 — Helpers — INFO — Default parameters: Orbis.Com
+2018-08-10 09:35:44,436 — Helpers — INFO — Reading parameters: Protección
+2018-08-10 09:35:44,436 — Helpers — INFO — Default parameters: ServiEntrega Bogotá
+2018-08-10 09:35:44,440 — Helpers — INFO — Default parameters: ServiEntrega Medellín
+2018-08-10 09:35:44,444 — Helpers — INFO — Default parameters: TUYA
+2018-08-10 09:35:44,448 — Helpers — INFO — Default parameters: Try My Ride
+2018-08-10 09:35:44,451 — Helpers — INFO — Default parameters: UNGRD
+2018-08-10 09:35:44,455 — Helpers — INFO — Default parameters: UnBosque
+2018-08-10 09:35:44,459 — Helpers — INFO — 
+2018-08-10 09:35:45,701 — App — INFO —  Running app
+2018-08-10 09:35:45,701 — PreProcessing — INFO — Loading Data
+2018-08-10 09:35:48,547 — App — INFO — CHECK DATAFRAMES - INICIO
+2018-08-10 09:35:48,547 — App — INFO — 322336
+2018-08-10 09:35:48,547 — App — INFO — 22211
+2018-08-10 09:35:48,547 — App — INFO — 168263
+2018-08-10 09:35:48,591 — Helpers — INFO — Reading parameters: Bancolombia Bogotá
+2018-08-10 09:35:48,591 — Helpers — INFO — Reading parameters: Bancolombia Medellín
+2018-08-10 09:35:48,591 — Helpers — INFO — Default parameters: Citi Mobility Bogota
+2018-08-10 09:35:48,595 — Helpers — INFO — Reading parameters: Colpatria
+2018-08-10 09:35:48,595 — Helpers — INFO — Reading parameters: Comfandi
+2018-08-10 09:35:48,596 — Helpers — INFO — Default parameters: Compensar
+2018-08-10 09:35:48,599 — Helpers — INFO — Default parameters: Comunidad Familia
+2018-08-10 09:35:48,603 — Helpers — INFO — Default parameters: Comunidad TCC
+2018-08-10 09:35:48,607 — Helpers — INFO — Default parameters: Connecta Colectiva
+2018-08-10 09:35:48,610 — Helpers — INFO — Reading parameters: Equion
+2018-08-10 09:35:48,611 — Helpers — INFO — Default parameters: Fontanar Bogotá
+2018-08-10 09:35:48,614 — Helpers — INFO — Default parameters: Grupo Exito Bogotá
+2018-08-10 09:35:48,618 — Helpers — INFO — Default parameters: Grupo Exito Medellín
+2018-08-10 09:35:48,622 — Helpers — INFO — Reading parameters: ISA
+2018-08-10 09:35:48,622 — Helpers — INFO — Default parameters: Isarco
+2018-08-10 09:35:48,626 — Helpers — INFO — Reading parameters: Itau
+2018-08-10 09:35:48,627 — Helpers — INFO — Default parameters: MTS Bogota
+2018-08-10 09:35:48,631 — Helpers — INFO — Default parameters: Orbis.Com
+2018-08-10 09:35:48,635 — Helpers — INFO — Reading parameters: Protección
+2018-08-10 09:35:48,635 — Helpers — INFO — Default parameters: ServiEntrega Bogotá
+2018-08-10 09:35:48,639 — Helpers — INFO — Default parameters: ServiEntrega Medellín
+2018-08-10 09:35:48,642 — Helpers — INFO — Default parameters: TUYA
+2018-08-10 09:35:48,646 — Helpers — INFO — Default parameters: Try My Ride
+2018-08-10 09:35:48,650 — Helpers — INFO — Default parameters: UNGRD
+2018-08-10 09:35:48,654 — Helpers — INFO — Default parameters: UnBosque
+2018-08-10 09:35:48,658 — Helpers — INFO — 
+2018-08-10 09:35:54,320 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
+2018-08-10 09:35:55,015 — App — INFO — 0
+2018-08-10 09:36:02,198 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
+2018-08-10 09:37:31,146 — App — INFO — 0
+2018-08-10 09:37:35,651 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
+2018-08-10 09:37:39,498 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
+2018-08-10 09:39:22,120 — App — INFO —  Running app
+2018-08-10 09:39:22,121 — PreProcessing — INFO — Loading Data
+2018-08-10 09:39:25,131 — App — INFO — CHECK DATAFRAMES - INICIO
+2018-08-10 09:39:25,131 — App — INFO — 322336
+2018-08-10 09:39:25,131 — App — INFO — 22211
+2018-08-10 09:39:25,131 — App — INFO — 168263
+2018-08-10 09:39:25,206 — Helpers — INFO — Reading parameters: Bancolombia Bogotá
+2018-08-10 09:39:25,206 — Helpers — INFO — Reading parameters: Bancolombia Medellín
+2018-08-10 09:39:25,206 — Helpers — INFO — Default parameters: Citi Mobility Bogota
+2018-08-10 09:39:25,210 — Helpers — INFO — Reading parameters: Colpatria
+2018-08-10 09:39:25,210 — Helpers — INFO — Reading parameters: Comfandi
+2018-08-10 09:39:25,210 — Helpers — INFO — Default parameters: Compensar
+2018-08-10 09:39:25,214 — Helpers — INFO — Default parameters: Comunidad Familia
+2018-08-10 09:39:25,218 — Helpers — INFO — Default parameters: Comunidad TCC
+2018-08-10 09:39:25,223 — Helpers — INFO — Default parameters: Connecta Colectiva
+2018-08-10 09:39:25,227 — Helpers — INFO — Reading parameters: Equion
+2018-08-10 09:39:25,227 — Helpers — INFO — Default parameters: Fontanar Bogotá
+2018-08-10 09:39:25,230 — Helpers — INFO — Default parameters: Grupo Exito Bogotá
+2018-08-10 09:39:25,234 — Helpers — INFO — Default parameters: Grupo Exito Medellín
+2018-08-10 09:39:25,239 — Helpers — INFO — Reading parameters: ISA
+2018-08-10 09:39:25,239 — Helpers — INFO — Default parameters: Isarco
+2018-08-10 09:39:25,243 — Helpers — INFO — Reading parameters: Itau
+2018-08-10 09:39:25,244 — Helpers — INFO — Default parameters: MTS Bogota
+2018-08-10 09:39:25,248 — Helpers — INFO — Default parameters: Orbis.Com
+2018-08-10 09:39:25,252 — Helpers — INFO — Reading parameters: Protección
+2018-08-10 09:39:25,252 — Helpers — INFO — Default parameters: ServiEntrega Bogotá
+2018-08-10 09:39:25,256 — Helpers — INFO — Default parameters: ServiEntrega Medellín
+2018-08-10 09:39:25,260 — Helpers — INFO — Default parameters: TUYA
+2018-08-10 09:39:25,264 — Helpers — INFO — Default parameters: Try My Ride
+2018-08-10 09:39:25,268 — Helpers — INFO — Default parameters: UNGRD
+2018-08-10 09:39:25,273 — Helpers — INFO — Default parameters: UnBosque
+2018-08-10 09:39:25,277 — Helpers — INFO — 
+2018-08-10 09:39:30,202 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
+2018-08-10 09:39:30,843 — App — INFO — 0
+2018-08-10 09:39:38,128 — App — INFO —                          email  Puntaje  Puntaje Promedio     ...      2018-04-01  2018-05-01  2018-06-01
+0  Ivvasque@bancolombia.com.co     34.0             336.0     ...             1.0        17.0        39.0
+1  Maospina@bancolombia.com.co     16.0             133.0     ...             2.0         4.0         6.0
+2   Mmolaya@bancolombia.com.co      4.0             152.0     ...             1.0        33.0        10.0
+3     Rarboled@bancolombia.com      1.0              84.0     ...             1.0        19.0         2.0
+4   Tavelez@bancolombia.com.co      1.0              89.0     ...             1.0         2.0         1.0
+
+[5 rows x 23 columns]
